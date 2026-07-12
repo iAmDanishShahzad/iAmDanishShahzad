@@ -11,8 +11,14 @@
 
 👨‍💻 About Me
  - 🌱 Currently deep-diving into modern software architecture and levelling up deep learning architectures for my research.
+ - 🔭 Working on building robust software engineering projects and exploring the practical side of agentic AI.
+ - 📦 Building projects using core computer science principles, agentic AI, a ton of internet surfing, and plenty of late-night debugging.
+ - 🌱 Learning how to squeeze every bit of efficiency out of machine learning models and advanced data science pipelines.
  - 💻 Passionate about data science, machine learning, and making metaheuristic optimisation algorithms (like Ant Colony and Grey Wolf) do the heavy lifting for complex problems.
- - 📦 Built projects using core computer science principles, agentic AI, a ton of internet surfing, and plenty of late-night debugging.
+ - 👯 Looking to collaborate on open-source AI projects, data-driven applications, or anything that solves complex problems with code.
+ - 🤔 Looking for help with scaling complex AI models and the finer details of modern software architecture.
+ - 💬 Ask me about Windows PowerShell tricks, Linux network utilities, optimization algorithms, or whatever book I am reading right now.
+ - ⚡ Fun fact: I spend an unhealthy amount of downtime writing the perfect AI prompts to generate hyper-realistic portraits of myself rocking a classic shalwar kameez and waistcoat.
 
 ---
 
@@ -21,17 +27,18 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,tensorflow,fastapi,cpp,sqlite,latex,html,css,js,git,github,vscode,pycharm,anaconda,ai,codex,windsurf" />
 </p>
-
+<!---
  - Languages: Python, C++, SQL, HTML/CSS, JavaScript
- - AI & Data Science: Machine Learning, Deep Learning, Metaheuristic Optimisation
- - Systems & Infrastructure: Linux Networking, Windows PowerShell
- - Emerging Tech: Blockchain, Agentic AI
- - Tools: Git, GitHub, VS Code, Codex, WindSurf
-<!--- Mobile Development: React Native -->
+ - 🧠 AI & Research: Machine Learning, Deep Learning, Data Science, Metaheuristic Optimisation
+ - ⚙️ Systems & Infrastructure: Linux Networking, Windows PowerShell
+ - 🔗 Emerging Tech: Blockchain, Agentic AI
+ - 🛠️ Tools: Git, GitHub, VS Code, Codex, WindSurf
+ - 📱 Mobile Development: React Native 
+-->
 
 ---
 
-🌐 Connect with Me
+📫 How to reach me
 <p align="center">
   <a href="mailto:iamdanishshahzad@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" alt="Gmail"/>
