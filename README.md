@@ -1,4 +1,4 @@
-<H1 align="center"> # Hi 👋, I'm Danish Shahzad </H1>
+<H1 align="center"> Hi 👋, I'm Danish Shahzad </H1>
 
 <!-- A Passionate Developer | AI Enthusiast 🚀 -->
 <H3 align="center"> Aspiring AI Engineer & Data Scientist 🚀 </H3>
