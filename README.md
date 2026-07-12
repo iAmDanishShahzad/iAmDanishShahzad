@@ -49,9 +49,6 @@
     <img src="https://img.shields.io/badge/Visit-Portfolio-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
-
- - LinkedIn: https://www.linkedin.com/in/iamdanishshahzad/
- - Email: iamdanishshahzad@gmail.com
  <!-- - Portfolio/Website: [Drop your link here] -->
 
 ---
