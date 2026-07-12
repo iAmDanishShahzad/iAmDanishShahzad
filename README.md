@@ -1,4 +1,4 @@
-Hi 👋, I'm Danish Shahzad
+# Hi 👋, I'm Danish Shahzad
 
 <!-- A Passionate Developer | AI Enthusiast 🚀 -->
 ### Aspiring AI Engineer & Data Scientist 🚀
