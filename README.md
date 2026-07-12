@@ -18,11 +18,11 @@
 
 🛠️ My Skills & Tools
  - Languages: Python, C++, SQL, HTML/CSS, JavaScript
- <!--- Mobile Development: React Native -->
  - AI & Data Science: Machine Learning, Deep Learning, Metaheuristic Optimisation
  - Systems & Infrastructure: Linux Networking, Windows PowerShell
  - Emerging Tech: Blockchain, Agentic AI
  - Tools: Git, GitHub, VS Code, Codex, WindSurf
+<!--- Mobile Development: React Native -->
 
 ---
 
