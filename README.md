@@ -53,9 +53,11 @@
 
 ---
 
-👀 Profile Views: ![Visitor Count](https://komarev.com/ghpvc/?username=iAmDanishShahzad&color=blue)
+👀 Profile Views: ![Visitor Count](https://komarev.com/ghpvc/?username=iAmDanishShahzad&label=Profile%20views&color=blue&style=flat)
 
-
+<p align="center">👀 Profile Views: 
+  <img src="https://komarev.com/ghpvc/?username=iAmDanishShahzad&label=Profile%20views&color=0e75b6&style=flat" alt="iAmDanishShahzad" />
+</p>
 
 <!--
 **iAmDanishShahzad/iAmDanishShahzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
