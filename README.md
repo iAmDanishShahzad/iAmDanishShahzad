@@ -19,7 +19,7 @@
 🛠️ My Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,fastapi,cpp,sqlite,latex,html,css,js,git,github,anaconda,discord,ai,vscode,pycharm,codex,windsurf" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,fastapi,cpp,sqlite,latex,html,css,js,git,github,vscode,pycharm,anaconda,ai,codex,windsurf" />
 </p>
  - Languages: Python, C++, SQL, HTML/CSS, JavaScript
  - AI & Data Science: Machine Learning, Deep Learning, Metaheuristic Optimisation
