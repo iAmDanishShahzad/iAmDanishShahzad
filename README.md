@@ -17,6 +17,10 @@
 ---
 
 🛠️ My Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c++,sql,html,css,js,git,github,ml,dl,vscode,codex,windsurf" />
+</p>
  - Languages: Python, C++, SQL, HTML/CSS, JavaScript
  - AI & Data Science: Machine Learning, Deep Learning, Metaheuristic Optimisation
  - Systems & Infrastructure: Linux Networking, Windows PowerShell
