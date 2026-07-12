@@ -4,7 +4,7 @@
 <H3 align="center"> Aspiring AI Engineer & Data Scientist 🚀 </H3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=750&lines=Aspiring+AI+Engineer+%26+Data+Scientist;Solving+Actual+Human+Problems+without+Overcomplicating+Things;Hackathon+Participant+;Harvard's+Puzzle+Day+2026+Winner;Int'l+Computer+Science+Competition+(ICSC)+2026+Participant;Section+Leader+%40+Stanford's+Code+in+Place+(CiP)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=750&lines=Solving+Actual+Human+Problems+without+Overcomplicating+Things;Hackathon+Participant+;Harvard's+Puzzle+Day+2026+Winner;Int'l+Computer+Science+Competition+(ICSC)+2026+Participant;Section+Leader+%40+Stanford's+Code+in+Place+(CiP)" alt="Typing SVG" />
 </p>
 
 ---
