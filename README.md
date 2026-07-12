@@ -1,7 +1,8 @@
 # Hi 👋, I'm Danish Shahzad
 
 <!-- A Passionate Developer | AI Enthusiast 🚀 -->
-### Aspiring AI Engineer & Data Scientist 🚀
+<H3 align="center> Aspiring AI Engineer & Data Scientist 🚀 </H3>
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+AI+Engineer+%26+Data+Scientist;Solving+actual+human+problems+without+overcomplicating+things;Hackathon+Participant+;Harvard's+Puzzle+Day+2026+Winner;Internation+Computer+Science+Competition+(ICSC)+2026+Participant;Section+Leader+%40+Stanford's+Code+in+Place+2026)](https://git.io/typing-svg)
 
 ---
